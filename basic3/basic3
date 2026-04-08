@@ -1,0 +1,8 @@
+#!/bin/sh
+if [ 'quiz2-1.sh' = "exist" ]
+then 
+	echo "파일이 존재하지 않습니다."
+else
+	echo "파일이 존재gkq니다.
+fi
+exit 0
